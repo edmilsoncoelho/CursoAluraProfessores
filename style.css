@@ -16,3 +16,11 @@ footer{
 h2{
     color: orange;
 }
+
+#nome-usuario{
+    font-weight: bold;
+}
+
+.texto-ingles{
+    font-style: italic;
+}
